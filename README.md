@@ -1,7 +1,7 @@
 [![Twitter: @plattarglobal](https://img.shields.io/badge/contact-@plattarglobal-blue.svg?style=flat)](https://twitter.com/plattarglobal)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat)](LICENSE)
 
-_Image Utils_ is a docker image that contains a number of pre-built tools useful for image file processing and conversion tasks. These tools typically take a long time to build from source. This image can serve as a useful base for other applications. Check out the Plattar [dockerhub](https://hub.docker.com/r/plattar/python-xrutils) repository for the latest pre-built images.
+_Image Utils_ is a docker image that contains a number of pre-built tools useful for image file processing and conversion tasks. These tools typically take a long time to build from source. This image can serve as a useful base for other applications. Check out the Plattar [dockerhub](https://hub.docker.com/r/plattar/image-utils) repository for the latest pre-built images.
 
 * * *
 
@@ -13,7 +13,7 @@ _Image Utils_ is a docker image that contains a number of pre-built tools useful
 
 ### Quickstart
 
-Prebuilt containers are available from Plattar [dockerhub](https://hub.docker.com/r/plattar/python-xrutils) repository.
+Prebuilt containers are available from Plattar [dockerhub](https://hub.docker.com/r/plattar/image-utils) repository.
 
 ##### Building/Running Locally
 
